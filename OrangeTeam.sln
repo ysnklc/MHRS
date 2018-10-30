@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Entities", "00-Entities", "{12C7687D-4783-465A-8934-5023EC098F6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-DataAccessLayer", "01-DataAccessLayer", "{D9D6FE07-2C46-454E-886C-FED16E73CFF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-BusinessLayer", "02-BusinessLayer", "{D9CAFB72-F6C7-4541-B5A8-B58B18368A63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Presentation", "03-Presentation", "{AF7502AA-CB8F-4E2C-80E5-EF5188D8D49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{57DCEA28-367A-4FEF-A57E-6C9795E1EED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{15451049-FE37-4986-80C0-544B73ACE8ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{5439916B-3120-400F-B7D5-D19CCCAA60B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{D262C521-CD88-43CD-AF56-23328EFAE0B9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://orangeteamw2.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Entities\\Entities.csproj
+		SccProjectTopLevelParentUniqueName1 = OrangeTeam.sln
+		SccProjectName1 = Entities
+		SccLocalPath1 = Entities
+		SccProjectUniqueName2 = DataAccessLayer\\DataAccessLayer.csproj
+		SccProjectTopLevelParentUniqueName2 = OrangeTeam.sln
+		SccProjectName2 = DataAccessLayer
+		SccLocalPath2 = DataAccessLayer
+		SccProjectUniqueName3 = BusinessLayer\\BusinessLayer.csproj
+		SccProjectTopLevelParentUniqueName3 = OrangeTeam.sln
+		SccProjectName3 = BusinessLayer
+		SccLocalPath3 = BusinessLayer
+		SccProjectUniqueName4 = Presentation\\Presentation.csproj
+		SccProjectTopLevelParentUniqueName4 = OrangeTeam.sln
+		SccProjectName4 = Presentation
+		SccLocalPath4 = Presentation
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DCEA28-367A-4FEF-A57E-6C9795E1EED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DCEA28-367A-4FEF-A57E-6C9795E1EED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DCEA28-367A-4FEF-A57E-6C9795E1EED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DCEA28-367A-4FEF-A57E-6C9795E1EED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15451049-FE37-4986-80C0-544B73ACE8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15451049-FE37-4986-80C0-544B73ACE8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15451049-FE37-4986-80C0-544B73ACE8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15451049-FE37-4986-80C0-544B73ACE8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5439916B-3120-400F-B7D5-D19CCCAA60B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5439916B-3120-400F-B7D5-D19CCCAA60B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5439916B-3120-400F-B7D5-D19CCCAA60B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5439916B-3120-400F-B7D5-D19CCCAA60B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D262C521-CD88-43CD-AF56-23328EFAE0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D262C521-CD88-43CD-AF56-23328EFAE0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D262C521-CD88-43CD-AF56-23328EFAE0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D262C521-CD88-43CD-AF56-23328EFAE0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57DCEA28-367A-4FEF-A57E-6C9795E1EED4} = {12C7687D-4783-465A-8934-5023EC098F6F}
+		{15451049-FE37-4986-80C0-544B73ACE8ED} = {D9D6FE07-2C46-454E-886C-FED16E73CFF5}
+		{5439916B-3120-400F-B7D5-D19CCCAA60B9} = {D9CAFB72-F6C7-4541-B5A8-B58B18368A63}
+		{D262C521-CD88-43CD-AF56-23328EFAE0B9} = {AF7502AA-CB8F-4E2C-80E5-EF5188D8D49E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\BusinessLayer\obj\Debug\BusinessLayer.pdb

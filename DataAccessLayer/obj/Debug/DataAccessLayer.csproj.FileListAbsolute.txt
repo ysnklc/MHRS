@@ -1,0 +1,7 @@
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\OrangeTeam\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
